@@ -1,0 +1,23 @@
+/* helper-loading.js - v1.0.0 */
+.helper-loading {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: #000 url('../img/helper-loading.gif') no-repeat center center;
+	opacity: .8;
+	z-index: 9999;
+
+	/* iPhone 5 (landscape)  */
+	@media only screen and (min-width: 568px) {
+	}
+
+	/* iPad (portrait) */
+	@media only screen and (min-width: $breakpoint2) {
+	}
+
+	/* Desktop */
+	@media only screen and (min-width: $breakpoint3) {
+	}
+}
