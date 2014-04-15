@@ -3,6 +3,8 @@ helper-loading
 
 Append an loading overlay with loading-icon
 
+[DEMO](http://jsfiddle.net/VfhK6/7/)
+
 ### JavaScript Snippet:
 
 ```JavaScript
