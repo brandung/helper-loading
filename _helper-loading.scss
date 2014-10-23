@@ -8,16 +8,4 @@
 	background: #000 url('../img/helper-loading/helper-loading.gif') no-repeat center center;
 	opacity: .8;
 	z-index: 9999;
-
-	/* iPhone 5 (landscape)  */
-	@media only screen and (min-width: 568px) {
-	}
-
-	/* iPad (portrait) */
-	@media only screen and (min-width: $breakpoint2) {
-	}
-
-	/* Desktop */
-	@media only screen and (min-width: $breakpoint3) {
-	}
 }
